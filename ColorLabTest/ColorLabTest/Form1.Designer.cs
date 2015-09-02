@@ -160,7 +160,7 @@
             0});
             this.spinBxClr1_blue.Name = "spinBxClr1_blue";
             this.spinBxClr1_blue.Size = new System.Drawing.Size(76, 26);
-            this.spinBxClr1_blue.TabIndex = 1;
+            this.spinBxClr1_blue.TabIndex = 3;
             this.spinBxClr1_blue.ValueChanged += new System.EventHandler(this.spinBxClr1_blue_ValueChanged);
             // 
             // spinBxClr1_green
@@ -173,7 +173,7 @@
             0});
             this.spinBxClr1_green.Name = "spinBxClr1_green";
             this.spinBxClr1_green.Size = new System.Drawing.Size(76, 26);
-            this.spinBxClr1_green.TabIndex = 1;
+            this.spinBxClr1_green.TabIndex = 2;
             this.spinBxClr1_green.ValueChanged += new System.EventHandler(this.spinBxClr1_green_ValueChanged);
             // 
             // spinBxClr1_b
@@ -192,7 +192,7 @@
             -2147483648});
             this.spinBxClr1_b.Name = "spinBxClr1_b";
             this.spinBxClr1_b.Size = new System.Drawing.Size(121, 26);
-            this.spinBxClr1_b.TabIndex = 1;
+            this.spinBxClr1_b.TabIndex = 6;
             this.spinBxClr1_b.ValueChanged += new System.EventHandler(this.spinBxClr1_b_ValueChanged);
             // 
             // spinBxClr1_a
@@ -211,7 +211,7 @@
             -2147483648});
             this.spinBxClr1_a.Name = "spinBxClr1_a";
             this.spinBxClr1_a.Size = new System.Drawing.Size(121, 26);
-            this.spinBxClr1_a.TabIndex = 1;
+            this.spinBxClr1_a.TabIndex = 5;
             this.spinBxClr1_a.ValueChanged += new System.EventHandler(this.spinBxClr1_a_ValueChanged);
             // 
             // spinBxClr1_L
@@ -230,7 +230,7 @@
             -2147483648});
             this.spinBxClr1_L.Name = "spinBxClr1_L";
             this.spinBxClr1_L.Size = new System.Drawing.Size(121, 26);
-            this.spinBxClr1_L.TabIndex = 1;
+            this.spinBxClr1_L.TabIndex = 4;
             this.spinBxClr1_L.ValueChanged += new System.EventHandler(this.spinBxClr1_L_ValueChanged);
             // 
             // spinBxClr1_red
@@ -339,7 +339,7 @@
             0});
             this.spinBxClr2_blue.Name = "spinBxClr2_blue";
             this.spinBxClr2_blue.Size = new System.Drawing.Size(76, 26);
-            this.spinBxClr2_blue.TabIndex = 1;
+            this.spinBxClr2_blue.TabIndex = 9;
             this.spinBxClr2_blue.ValueChanged += new System.EventHandler(this.spinBxClr2_blue_ValueChanged);
             // 
             // spinBxClr2_green
@@ -352,7 +352,7 @@
             0});
             this.spinBxClr2_green.Name = "spinBxClr2_green";
             this.spinBxClr2_green.Size = new System.Drawing.Size(76, 26);
-            this.spinBxClr2_green.TabIndex = 1;
+            this.spinBxClr2_green.TabIndex = 8;
             this.spinBxClr2_green.ValueChanged += new System.EventHandler(this.spinBxClr2_green_ValueChanged);
             // 
             // spinBxClr2_b
@@ -371,7 +371,7 @@
             -2147483648});
             this.spinBxClr2_b.Name = "spinBxClr2_b";
             this.spinBxClr2_b.Size = new System.Drawing.Size(121, 26);
-            this.spinBxClr2_b.TabIndex = 1;
+            this.spinBxClr2_b.TabIndex = 12;
             this.spinBxClr2_b.ValueChanged += new System.EventHandler(this.spinBxClr2_b_ValueChanged);
             // 
             // spinBxClr2_a
@@ -390,7 +390,7 @@
             -2147483648});
             this.spinBxClr2_a.Name = "spinBxClr2_a";
             this.spinBxClr2_a.Size = new System.Drawing.Size(121, 26);
-            this.spinBxClr2_a.TabIndex = 1;
+            this.spinBxClr2_a.TabIndex = 11;
             this.spinBxClr2_a.ValueChanged += new System.EventHandler(this.spinBxClr2_a_ValueChanged);
             // 
             // spinBxClr2_L
@@ -409,7 +409,7 @@
             -2147483648});
             this.spinBxClr2_L.Name = "spinBxClr2_L";
             this.spinBxClr2_L.Size = new System.Drawing.Size(121, 26);
-            this.spinBxClr2_L.TabIndex = 1;
+            this.spinBxClr2_L.TabIndex = 10;
             this.spinBxClr2_L.ValueChanged += new System.EventHandler(this.spinBxClr2_L_ValueChanged);
             // 
             // spinBxClr2_red
@@ -422,7 +422,7 @@
             0});
             this.spinBxClr2_red.Name = "spinBxClr2_red";
             this.spinBxClr2_red.Size = new System.Drawing.Size(76, 26);
-            this.spinBxClr2_red.TabIndex = 1;
+            this.spinBxClr2_red.TabIndex = 7;
             this.spinBxClr2_red.ValueChanged += new System.EventHandler(this.spinBxClr2_red_ValueChanged);
             // 
             // lblClr_2

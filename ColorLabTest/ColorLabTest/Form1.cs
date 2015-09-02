@@ -17,6 +17,14 @@ namespace ColorLabTest
             InitializeComponent();
         }
 
+        protected override void OnLoad(EventArgs e)
+        {
+            base.OnLoad(e);
+
+            this.spinBxClr1_red.Value = (decimal)255.0;
+            this.spinBxClr2_red.Value = (decimal)255.0;
+        }
+
         private void spinBxClr1_red_ValueChanged(object sender, EventArgs e)
         {
             SetColor1LabValsFromRGB();

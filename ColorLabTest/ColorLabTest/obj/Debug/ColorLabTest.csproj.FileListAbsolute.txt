@@ -1,0 +1,10 @@
+C:\Users\Tyler\Documents\GitHub\ColorLabTest\ColorLabTest\ColorLabTest\bin\Debug\ColorLabTest.exe.config
+C:\Users\Tyler\Documents\GitHub\ColorLabTest\ColorLabTest\ColorLabTest\bin\Debug\ColorLabTest.exe
+C:\Users\Tyler\Documents\GitHub\ColorLabTest\ColorLabTest\ColorLabTest\bin\Debug\ColorLabTest.pdb
+C:\Users\Tyler\Documents\GitHub\ColorLabTest\ColorLabTest\ColorLabTest\bin\Debug\ColorMine.dll
+C:\Users\Tyler\Documents\GitHub\ColorLabTest\ColorLabTest\ColorLabTest\obj\Debug\ColorLabTest.csprojResolveAssemblyReference.cache
+C:\Users\Tyler\Documents\GitHub\ColorLabTest\ColorLabTest\ColorLabTest\obj\Debug\ColorLabTest.Form1.resources
+C:\Users\Tyler\Documents\GitHub\ColorLabTest\ColorLabTest\ColorLabTest\obj\Debug\ColorLabTest.Properties.Resources.resources
+C:\Users\Tyler\Documents\GitHub\ColorLabTest\ColorLabTest\ColorLabTest\obj\Debug\ColorLabTest.csproj.GenerateResource.Cache
+C:\Users\Tyler\Documents\GitHub\ColorLabTest\ColorLabTest\ColorLabTest\obj\Debug\ColorLabTest.exe
+C:\Users\Tyler\Documents\GitHub\ColorLabTest\ColorLabTest\ColorLabTest\obj\Debug\ColorLabTest.pdb
