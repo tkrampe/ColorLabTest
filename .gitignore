@@ -41,3 +41,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.exe
+ColorLabTest/ColorLabTest/bin/Debug/ColorMine.dll
+*.pdb
+ColorLabTest/ColorLabTest/bin/Debug/ColorLabTest.exe.config
